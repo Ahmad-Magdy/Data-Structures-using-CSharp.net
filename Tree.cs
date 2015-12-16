@@ -168,6 +168,6 @@ class TTree
             val = current.value;
             current = current.Left;
         }
-        Console.WriteLine("The Smallest element is {0} or {1}", last, val);
+        Console.WriteLine("The Smallest element is {0}", val);
     }
 }
