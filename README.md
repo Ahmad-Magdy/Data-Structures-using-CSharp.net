@@ -5,6 +5,7 @@ Implementations a simple codes for Data Structures in C#.net
 - Bubble Sort
 - Selection Sort
 - Binary Search
+- LinkedList
 - Stack 
 - Queue
 - Tree
